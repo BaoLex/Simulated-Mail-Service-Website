@@ -21,7 +21,7 @@ This project is a **Mail Simulated Service Website** built using **Flutter**. It
    - [Download Flutter](https://flutter.dev/docs/get-started/install)
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/BaoLex/mail-clone-web.git
+   git clone https://github.com/BaoLex/mail_clone_web.git
    ```
 3. **Navigate to the Project Directory**
    ```bash
